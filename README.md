@@ -39,27 +39,34 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-    <a
-      href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
-      target="_blank"
-      rel="noreferrer"
-    >
-      <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-        alt="javascript"
-        width="40"
-        height="40"
-      />
-    </a>
-  <a href="https://www.drupal.org/" target="_blank" rel="noreferrer">
+  <a
+    href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
+    target="_blank"
+    rel="noreferrer"
+  >
     <img
-      src="https://www.drupal.org/files/Wordmark2_blue_RGB%281%29.png"
-      alt="babel"
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
+      alt="javascript"
       width="40"
       height="40"
     />
   </a>
-  
+  <a href="https://www.drupal.org/" target="_blank" rel="noreferrer">
+    <img
+      src="https://www.drupal.org/files/Wordmark2_blue_RGB%281%29.png"
+      alt="babel"
+      width="50"
+      height="40"
+    />
+  </a>
+
+  <a href="https://wordpress.com/" target="_blank"
+    ><img
+      src="https://profilinator.rishav.dev/skills-assets/wordpress.png"
+      alt="WordPress"
+      height="50"
+  /></a>
+
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
